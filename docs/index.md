@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Prison Documentation
 
-You can use the [editor on GitHub](https://github.com/Simon-XzMC/WaffleNetworkPrison/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<hr style="height:1px; border:none; color:#aaf; background-color:#aaf;">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# [Prison Documents - Table of Contents](prison_docs_000_toc.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prison's table of contents of all documents.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<hr style="height:1px; border:none; color:#aaf; background-color:#aaf;">
 
-- Bulleted
-- List
+# Prison Now Fully Supports Spigot 1.17 and Java 16 !!
 
-1. Numbered
-2. List
+### Prison Build Logs for v3.2.0 (2019-12-03) through v3.2.6-alpha (current)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- **[v3.3.0-alpha - Current](changelog_v3.3.x.md)**
+- [v3.2.0 through v3.2.10](prison_changelogs.md)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Simon-XzMC/WaffleNetworkPrison/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<hr style="height:1px; border:none; color:#aaf; background-color:#aaf;">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
