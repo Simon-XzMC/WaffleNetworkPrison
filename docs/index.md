@@ -14,7 +14,7 @@ Prison's table of contents of all documents.
 
 ### Prison Build Logs for v3.2.0 (2019-12-03) through v3.2.6-alpha (current)
 
-[![Build Status](https://github.com/PrisonTeam/Prison/workflows/Prison%20Build/badge.svg)](https://github.com/PrisonTeam/Prison/actions?query=workflow%3A%22Prison+Build%22)
+[![Prison Build](https://github.com/Simon-XzMC/WaffleNetworkPrison/actions/workflows/gradle.yml/badge.svg)](https://github.com/Simon-XzMC/WaffleNetworkPrison/actions/workflows/gradle.yml)
 
 
 
