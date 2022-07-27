@@ -14,9 +14,7 @@ Prison's table of contents of all documents.
 
 ### Prison Build Logs for v3.2.0 (2019-12-03) through v3.2.6-alpha (current)
 
-
-- **[v3.3.0-alpha - Current](changelog_v3.3.x.md)**
-- [v3.2.0 through v3.2.10](prison_changelogs.md)
+[![Build Status](https://github.com/PrisonTeam/Prison/workflows/Prison%20Build/badge.svg)](https://github.com/PrisonTeam/Prison/actions?query=workflow%3A%22Prison+Build%22)
 
 
 
