@@ -11,4 +11,5 @@ public class Prison extends JavaPlugin {
     @Override
     public void onDisable() {
     }
+
 }
